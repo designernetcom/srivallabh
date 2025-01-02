@@ -784,11 +784,12 @@ div#mCSB_1_container{
   position: absolute;
   left: 0px;
   top: 0px;
+  box-shadow: rgba(0, 0, 0, 0.05) 1.95px 1.95px 2.6px;
   width: 100%;
 }
 
 .header-style-two .header-top{
-  background: transparent;
+  background:#12502e;
 }
 
 .main-header .info-list{

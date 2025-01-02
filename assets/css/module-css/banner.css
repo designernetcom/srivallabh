@@ -518,15 +518,16 @@
 }
 
 .banner-style-four .content-box h2{
-  color: #fff;
+  color: #0d4c2a;
 }
 
 .banner-style-four .content-box p{
-  color: #fff;
+  color: #111111;
 }
 
 .banner-style-four .content_block_six .content-box .btn-box .theme-btn.btn-two{
   color: #fff !important;
+  background: #0d4c2a;
 }
 
 .banner-style-four .pattern-layer{
